@@ -19,14 +19,14 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0315_000-X.yaml, hash: 'sha256:26e665c0b983505808a47b0696189ea779eca1e6cd5b574d4d8d2835c22d5932'}
+  - {seq: 0, filename: KR6q0315_000-X.yaml, hash: 'sha256:6be1cb7ab2f7ee9814d09432a08bbef8b98de51e1a01915bb5eaa46867974dfd'}
   - {seq: 1, filename: KR6q0315_001-X.yaml, hash: 'sha256:07d8227fe395430f09ac0ac0d4fd9ecb30fdeb846002735cbb479a7815871d3c'}
   - {seq: 2, filename: KR6q0315_002-X.yaml, hash: 'sha256:7fb1ad78e710214ec5a1c81abf2032dfc7df5962bf81fe99b691dd15e41395a7'}
   - {seq: 3, filename: KR6q0315_003-X.yaml, hash: 'sha256:1b2063e4e27c48e568f049198431a0424764191f3a282b08f8e7d637ba71d352'}
   - {seq: 4, filename: KR6q0315_004-X.yaml, hash: 'sha256:368e5ee049f24a20c67e6c9f3fb3e2ddf363caae2d33eced8b5afeee010a318c'}
   - {seq: 5, filename: KR6q0315_005-X.yaml, hash: 'sha256:4354a81a516dcd6c21990b9e2bb5ae43c3ad1e0d15ca8fbf3a9ca535cfe8cf28'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0315_000-X.markers.yaml, hash: 'sha256:52a2d219da357e41e68cef31bd76d5ebc8bb434e09a46fcc1c7cf1d509c6cdee'}
+  - {seq: 0, role: markers, filename: assets/KR6q0315_000-X.markers.yaml, hash: 'sha256:bec54297a60a4dac8694db601baf1313529780237cf8e04b8840f761c4efec4f'}
   - {seq: 1, role: markers, filename: assets/KR6q0315_001-X.markers.yaml, hash: 'sha256:b35ac5c7f0dd3c71f8bb1bdc2cff38baf95ea1e58fbaaac666ead3a0d4bd753f'}
   - {seq: 2, role: markers, filename: assets/KR6q0315_002-X.markers.yaml, hash: 'sha256:4efd9940d0c0592e588b860211f61621cdc0208177b6a26a0adcb6914916b505'}
   - {seq: 3, role: markers, filename: assets/KR6q0315_003-X.markers.yaml, hash: 'sha256:060e74747b705c53ea2a753ec8be57ee3da254388eeda5ca6f07b2253b77cb29'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0315_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1382-A
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0315_X_000-mulu-2
     span:
-    - front
+    - body
     - 275
     - 275
   label: 佛鑑禪師語錄目次
@@ -2413,4 +2413,4 @@ table_of_contents:
   label: No. 1382-B 大丞相游公祭文
   type: mulu
   level: 1
-hash: sha256:718486ef0b42fe7196a910ee858747b2f339e06a79566bdedd045f330e3d2548
+hash: sha256:d9c7698ee70521c5fb3ad17283d60c43b1180af1103f42e26d8a9dd2df8fb7f7
